@@ -20,6 +20,7 @@ Bibliotecas utilizadas:
 Pandas
 NumPy
 Matplotlib/Seaborn (se aplicável, ajustar conforme o conteúdo do notebook)
+
                                                   📝 Como usar
                                                   
 Faça o download ou clone este repositório.
